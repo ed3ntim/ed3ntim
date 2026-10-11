@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="karambit-dark.gif">
+    <img alt="Karambit, blade down" src="karambit-light.gif" width="420">
+  </picture>
+</p>
+
 # ed3n
 
 Digital artwork, and the software around it.
