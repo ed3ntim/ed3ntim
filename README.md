@@ -7,28 +7,13 @@ Digital artwork, and the software around it.
 
 [**forcebuy-release**](https://github.com/ed3ntim/forcebuy-release)
 ![GitHub release](https://img.shields.io/github/v/release/ed3ntim/forcebuy-release?style=flat-square&label=Release)
-· beta<br>
+<span style="display:inline-block; padding:0.18em 0.55em; border-radius:999px; background:#f59e0b; color:#111827; font-size:12px; font-weight:600; line-height:1.4; vertical-align:middle;">beta</span><br>
 ForceBuy for Windows, macOS and Linux: a CS2 inventory and market ledger that matches every purchase and sale to its item. Read-only. Web beta at forcebuy.net.
-
-[**forcebuy-connect**](https://github.com/ed3ntim/forcebuy-connect)
-![GitHub release](https://img.shields.io/github/v/release/ed3ntim/forcebuy-connect?style=flat-square&label=Release)
-· release<br>
-ForceBuy Connect: browser extension that keeps your Steam access in ForceBuy fresh. Read-only mirror of the released source.
 
 [**cs.sticker**](https://github.com/ed3ntim/cs.sticker)
 ![GitHub release](https://img.shields.io/github/v/release/ed3ntim/cs.sticker?style=flat-square&label=Release)
-· beta<br>
+<span style="display:inline-block; padding:0.18em 0.55em; border-radius:999px; background:#22c55e; color:#ffffff; font-size:12px; font-weight:600; line-height:1.4; vertical-align:middle;">release</span><br>
 Blender add-on: place CS2 stickers on meshes with finish-accurate materials (Paper, Glitter, Holo, Foil, Gold, Lenticular, Embroidered)
-
-[**groundfx**](https://github.com/ed3ntim/groundfx)
-![GitHub release](https://img.shields.io/github/v/release/ed3ntim/groundfx?style=flat-square&label=Release)
-· beta<br>
-Blender add-on. Deformable sand, snow and mud.
-
-[**vault**](https://github.com/ed3ntim/vault)
-![GitHub release](https://img.shields.io/github/v/release/ed3ntim/vault?style=flat-square&label=Release)
-· in development<br>
-vault
 
 ## Contacts
 
