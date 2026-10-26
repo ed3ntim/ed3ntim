@@ -3,7 +3,7 @@
 Digital artwork, and the software around it.
 ### ![visitors](https://komarev.com/ghpvc/?username=ed3ntim&label=visitors&color=52525b&style=flat-square)
 
-## Pinned repositories
+## Selected work
 
 [**ForceBuy**](https://forcebuy.net) · closed beta<br>
 CS2 inventory and market ledger.
@@ -25,8 +25,7 @@ Blender add-on. Deformable sand, snow and mud.
 
 · [@ed3nCS](https://x.com/ed3nCS)<br>
 · [ed3n.gallery](https://ed3n.gallery) · [contact@ed3n.gallery](mailto:contact@ed3n.gallery)<br>
-· [forcebuy.net](https://forcebuy.net) · [contact@forcebuy.net](mailto:forcebuy.net)<br>
-
+· [forcebuy.net](https://forcebuy.net) · [contact@forcebuy.net](mailto:contact@forcebuy.net)<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
