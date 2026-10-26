@@ -5,21 +5,30 @@ Digital artwork, and the software around it.
 
 ## Selected work
 
-[**ForceBuy**](https://forcebuy.net) · closed beta<br>
-CS2 inventory and market ledger.
+[**forcebuy-release**](https://github.com/ed3ntim/forcebuy-release) · Public<br>
+ForceBuy for Windows, macOS and Linux: a CS2 inventory and market ledger that matches every purchase and sale to its item. Read-only. Web beta at forcebuy.net.
 
-![ForceBuy release](https://img.shields.io/github/v/release/ed3ntim/forcebuy-release?style=flat-square&label=ForceBuy&color=52525b)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[**Rename**](https://github.com/ed3ntim/rename-releases)<br>
-Turns a folder of cryptic file names into a library you can browse.
+[**cs.sticker**](https://github.com/ed3ntim/cs.sticker) · Public<br>
+Blender add-on: place CS2 stickers on meshes with finish-accurate materials (Paper, Glitter, Holo, Foil, Gold, Lenticular, Embroidered)
 
-![Rename release](https://img.shields.io/github/v/release/ed3ntim/rename-releases?style=flat-square&label=Rename&color=52525b)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-[**Vault**](https://github.com/ed3ntim/vault)<br>
-Serverless anonymous secure messenger.
+[**forcebuy-connect**](https://github.com/ed3ntim/forcebuy-connect) · Public<br>
+ForceBuy Connect: browser extension that keeps your Steam access in ForceBuy fresh. Read-only mirror of the released source.
 
-[**GroundFX**](https://github.com/ed3ntim/groundfx)<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[**groundfx**](https://github.com/ed3ntim/groundfx) · Public<br>
 Blender add-on. Deformable sand, snow and mud.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[**vault**](https://github.com/ed3ntim/vault) · Public<br>
+vault
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ## Contacts
 
