@@ -15,6 +15,18 @@ ForceBuy for Windows, macOS and Linux: a CS2 inventory and market ledger that ma
 <span style="display:inline-block; padding:0.18em 0.55em; border-radius:999px; background:#22c55e; color:#ffffff; font-size:12px; font-weight:600; line-height:1.4; vertical-align:middle;">release</span><br>
 Blender add-on: place CS2 stickers on meshes with finish-accurate materials (Paper, Glitter, Holo, Foil, Gold, Lenticular, Embroidered)
 
+[**forcebuy-connect**](https://github.com/ed3ntim/forcebuy-connect)
+<span style="display:inline-block; padding:0.18em 0.55em; border-radius:999px; background:#60a5fa; color:#ffffff; font-size:12px; font-weight:600; line-height:1.4; vertical-align:middle;">beta</span><br>
+ForceBuy Connect: browser extension that keeps your Steam access in ForceBuy fresh. Read-only mirror of the released source.
+
+[**groundfx**](https://github.com/ed3ntim/groundfx)
+<span style="display:inline-block; padding:0.18em 0.55em; border-radius:999px; background:#f59e0b; color:#111827; font-size:12px; font-weight:600; line-height:1.4; vertical-align:middle;">beta</span><br>
+Blender add-on. Deformable sand, snow and mud.
+
+[**vault**](https://github.com/ed3ntim/vault)
+<span style="display:inline-block; padding:0.18em 0.55em; border-radius:999px; background:#7c3aed; color:#ffffff; font-size:12px; font-weight:600; line-height:1.4; vertical-align:middle;">in development</span><br>
+vault
+
 ## Contacts
 
 · [@ed3nCS](https://x.com/ed3nCS)<br>
