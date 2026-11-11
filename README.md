@@ -5,19 +5,19 @@ Digital artwork, and the software around it.
 
 ## Selected work
 
-[**cs.weapon**](https://github.com/ed3ntim/cs.weapon)  
+[**cs.weapon**](https://github.com/ed3ntim/cs.weapon) ![GitHub release](https://img.shields.io/github/v/release/ed3ntim/cs.weapon?style=flat-square&label=Release) <span style="display:inline-block; padding:0.18em 0.55em; border-radius:999px; background:#22c55e; color:#ffffff; font-size:12px; font-weight:600; line-height:1.4; vertical-align:middle;">release</span>  
 Blender add-on: spawn CS2 weapons, knives and gloves with any skin, pattern seed and float, rendered by the game's own paint shaders.
 
-[**cs.sticker**](https://github.com/ed3ntim/cs.sticker)  
+[**cs.sticker**](https://github.com/ed3ntim/cs.sticker) ![GitHub release](https://img.shields.io/github/v/release/ed3ntim/cs.sticker?style=flat-square&label=Release) <span style="display:inline-block; padding:0.18em 0.55em; border-radius:999px; background:#22c55e; color:#ffffff; font-size:12px; font-weight:600; line-height:1.4; vertical-align:middle;">release</span>  
 Blender add-on: place CS2 stickers on meshes with finish-accurate materials (Paper, Glitter, Holo, Foil, Gold, Lenticular, Embroidered).
 
-[**cs.charm**](https://github.com/ed3ntim/cs.charm)  
+[**cs.charm**](https://github.com/ed3ntim/cs.charm) ![GitHub release](https://img.shields.io/github/v/release/ed3ntim/cs.charm?style=flat-square&label=Release) <span style="display:inline-block; padding:0.18em 0.55em; border-radius:999px; background:#22c55e; color:#ffffff; font-size:12px; font-weight:600; line-height:1.4; vertical-align:middle;">release</span>  
 Blender add-on: spawn CS2 charms (keychains) with their patterns.
 
-[**forcebuy-release**](https://github.com/ed3ntim/forcebuy-release)  
+[**forcebuy-release**](https://github.com/ed3ntim/forcebuy-release) ![GitHub release](https://img.shields.io/github/v/release/ed3ntim/forcebuy-release?style=flat-square&label=Release) <span style="display:inline-block; padding:0.18em 0.55em; border-radius:999px; background:#f59e0b; color:#111827; font-size:12px; font-weight:600; line-height:1.4; vertical-align:middle;">beta</span>  
 ForceBuy for Windows, macOS and Linux: a CS2 inventory and market ledger that matches every purchase and sale to its item. Read-only. Web beta at forcebuy.net.
 
-[**forcebuy-connect**](https://github.com/ed3ntim/forcebuy-connect)  
+[**forcebuy-connect**](https://github.com/ed3ntim/forcebuy-connect) <span style="display:inline-block; padding:0.18em 0.55em; border-radius:999px; background:#60a5fa; color:#ffffff; font-size:12px; font-weight:600; line-height:1.4; vertical-align:middle;">beta</span>  
 ForceBuy Connect: browser extension that keeps your Steam access in ForceBuy fresh. Read-only mirror of the released source.
 
 ## Contacts
