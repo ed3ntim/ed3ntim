@@ -22,9 +22,9 @@ ForceBuy Connect: browser extension that keeps your Steam access in ForceBuy fre
 
 ## Contacts
 
-· [@ed3nCS](https://x.com/ed3nCS)<br>
-· [ed3n.gallery](https://ed3n.gallery) · [contact@ed3n.gallery](mailto:contact@ed3n.gallery)<br>
-· [forcebuy.net](https://forcebuy.net) · [contact@forcebuy.net](mailto:contact@forcebuy.net)<br>
+[![Social](https://img.shields.io/badge/Social-@ed3nCS-18181b?style=flat-square&logo=x&logoColor=white)](https://x.com/ed3nCS)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ed3n.gallery-18181b?style=flat-square)](https://ed3n.gallery) [![Email](https://img.shields.io/badge/Email-contact@ed3n.gallery-18181b?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@ed3n.gallery)  
+[![Product](https://img.shields.io/badge/Product-forcebuy.net-18181b?style=flat-square)](https://forcebuy.net) [![Email](https://img.shields.io/badge/Email-contact@forcebuy.net-18181b?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@forcebuy.net)  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
